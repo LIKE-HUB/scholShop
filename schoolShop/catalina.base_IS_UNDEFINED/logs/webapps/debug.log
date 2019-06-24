@@ -1,0 +1,3 @@
+2019-06-24 09:30:43.451 [main] DEBUG c.l.s.d.P.queryProductCategoryList - ==>  Preparing: SELECT product_category_id, product_category_name, priority, create_time, shop_id FROM tb_product_category WHERE shop_id=? 
+2019-06-24 09:30:43.485 [main] DEBUG c.l.s.d.P.queryProductCategoryList - ==> Parameters: 1(Long)
+2019-06-24 09:30:43.602 [main] DEBUG c.l.s.d.P.queryProductCategoryList - <==      Total: 4

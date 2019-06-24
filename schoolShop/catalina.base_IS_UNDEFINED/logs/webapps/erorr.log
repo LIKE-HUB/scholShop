@@ -1,0 +1,14 @@
+2019-06-20 09:41:41.579 [main] ERROR c.l.schoolShop.service.impl.WechatAuthServiceImpl - insertWechatAuth error:org.springframework.dao.DuplicateKeyException: 
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'dahizhfdha' for key 'open_id'
+### The error may involve com.like.schoolShop.dao.WechatAuthDao.insertWechatAuth-Inline
+### The error occurred while setting parameters
+### SQL: INSERT   INTO   tb_wechat_auth(user_id,open_id,create_time)   VALUES   (?,?,?)
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'dahizhfdha' for key 'open_id'
+; SQL []; Duplicate entry 'dahizhfdha' for key 'open_id'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'dahizhfdha' for key 'open_id'
+2019-06-20 09:53:53.976 [main] ERROR c.l.schoolShop.service.impl.WechatAuthServiceImpl - insertWechatAuth error:org.springframework.dao.DuplicateKeyException: 
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'dahizhfdha' for key 'open_id'
+### The error may involve com.like.schoolShop.dao.WechatAuthDao.insertWechatAuth-Inline
+### The error occurred while setting parameters
+### SQL: INSERT   INTO   tb_wechat_auth(user_id,open_id,create_time)   VALUES   (?,?,?)
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'dahizhfdha' for key 'open_id'
+; SQL []; Duplicate entry 'dahizhfdha' for key 'open_id'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'dahizhfdha' for key 'open_id'
