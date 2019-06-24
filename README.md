@@ -10,8 +10,5 @@
 ## 项目体验
 使用手机先扫描下方二维码微信测试平台
  ![image](https://github.com/LIKE-HUB/scholShop/blob/master/imgFolder/public.png)
- 扫描下方二维码进入用户平台
-  ![image](https://github.com/LIKE-HUB/scholShop/blob/master/imgFolder/student.png)
- 扫描下方二维码进入店家管理平台  用户名test 密码123456
-   ![image](https://github.com/LIKE-HUB/scholShop/blob/master/imgFolder/student.png)
- 
+## 项目预览
+ ![image](https://github.com/LIKE-HUB/scholShop/blob/master/imgFolder/image.png)
